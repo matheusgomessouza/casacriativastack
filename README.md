@@ -7,5 +7,6 @@ Projeto "Casa Criativa" desenvolvido durante a Semana Omnistack 11.0 com a mento
  - CSS
  - JAVASCRIPT
  - SQLITE
+ - Express
  
  
